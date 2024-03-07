@@ -1,0 +1,70 @@
+html{
+    
+}
+#container {
+    position:relative;
+}
+
+#i2{
+    position: absolute;
+    left:0px;
+    top:100px;
+}
+#h{
+    position: absolute;
+    right: 300px;
+    top: 200px;
+    font-size:70px;
+}
+#h01{
+    font-size:70px; 
+    position: absolute; 
+    LEFt: 100px;
+    top: 1200px; 
+}
+#h02{
+    font-size:40px;
+    position: absolute;
+    left:10px;
+    top: 1300px;
+}
+#h03{
+    font-size:70px;
+    position: absolute;
+    right:200px;
+    top: 1800px;
+}
+#h04{
+    font-size:40px;
+    position: absolute;
+    right:10px;
+    top: 1900px;
+}
+#h05{
+    font-size:70px;
+    position: absolute;
+    left:500px;
+    top: 2200px;
+}
+#h06{
+    font-size:40px;
+    position: absolute;
+    left:550px;
+    top: 2300px;
+}
+#welcome{
+    position: absolute;
+    right: 550px;
+    top: 600px;
+    font-size:70px;
+}
+#topic{
+    position: absolute;
+    right: 600px;
+    top: 700px;
+    font-size:50px;
+}
+mark.red{
+    color:#ff0000;
+    background:#000000;
+}
